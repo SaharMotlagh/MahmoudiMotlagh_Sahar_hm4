@@ -1,0 +1,11 @@
+<svg id=music xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75.6 75.6"><defs><style>
+
+#music:hover {
+      cursor: pointer;
+    }
+.cls-1{
+    fill:none;
+    stroke:#fff;
+    stroke-miterlimit:10;stroke-width:2px;
+    }
+</style></defs><g id="Layer_2" data-name="Layer 2"><g id="circle"><circle class="cls-1" cx="37.8" cy="37.8" r="36.8"/></g><g id="black-key"><path d="M63.91,37.54v24H11.68V20.62c0-3.6,2.43-6.54,5.4-6.54H37.73c3,0,5.4,2.94,5.4,6.54v3.84c0,3.6,1.38,7.28,9.18,6.54h6.21C61.48,31,63.91,33.94,63.91,37.54ZM62.37,48.05H13.23V59.72H62.37ZM23.19,55.24H21.92V48h1.27ZM26.86,48H25.59v7.27h1.27ZM25,48H23.76v7.27H25Zm11.45,7.27H35.2V48h1.27ZM40.14,48H38.88v7.27h1.26Zm-1.83,0H37v7.27h1.27ZM17.37,55.24H16.1V48h1.27ZM19.21,48H17.94v7.27h1.27Zm11.56,7.27H29.5V48h1.27ZM32.6,48H31.34v7.27H32.6Zm17.15,7.27H48.49V48h1.26ZM53.43,48H52.16v7.27h1.27Zm-1.84,0H50.32v7.27h1.27Zm-7.54,7.27H42.78V48h1.27ZM45.89,48H44.62v7.27h1.27Zm11.44,7.27H56.07V48h1.26ZM59.17,48H57.9v7.27h1.27Z"/></g></g></svg>

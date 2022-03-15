@@ -1,0 +1,27 @@
+<svg id="music" xmlns="http://www.w3.org/2000/svg" width="52.23" height="47.44" viewBox="0 0 52.23 47.44">
+  <defs>
+    <style>
+    #music:hover {
+      cursor: pointer;
+    }
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+        transition: all ease 1.5s;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="body">
+      <path id="body-2" data-name="body" d="M46.83,16.92h-6.2c-7.8.75-9.18-2.94-9.18-6.54V6.54C31.45,2.94,29,0,26.05,0H5.4C2.43,0,0,2.94,0,6.54v40.9H52.23v-24C52.23,19.87,49.8,16.92,46.83,16.92Z"/>
+    </g>
+    <g id="white-key">
+      <rect id="white-key-2" data-name="white-key" class="cls-1" x="1.55" y="33.97" width="49.14" height="11.67"/>
+    </g>
+    <g id="black-key">
+      <path id="black-key-2" data-name="black-key" d="M11.51,41.16H10.24V33.89h1.27Zm3.67-7.27H13.91v7.27h1.27Zm-1.84,0H12.08v7.27h1.26Zm11.45,7.27H23.52V33.89h1.27Zm3.67-7.27H27.2v7.27h1.26Zm-1.83,0H25.36v7.27h1.27ZM5.69,41.16H4.42V33.89H5.69Zm1.84-7.27H6.26v7.27H7.53Zm11.56,7.27H17.82V33.89h1.27Zm1.83-7.27H19.66v7.27h1.26Zm17.15,7.27H36.81V33.89h1.26Zm3.68-7.27H40.48v7.27h1.27Zm-1.84,0H38.64v7.27h1.27Zm-7.54,7.27H31.1V33.89h1.27Zm1.84-7.27H32.94v7.27h1.27Zm11.44,7.27H44.39V33.89h1.26Zm1.84-7.27H46.22v7.27h1.27Z"/>
+    </g>
+  </g>
+</svg>
